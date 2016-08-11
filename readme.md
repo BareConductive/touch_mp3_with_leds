@@ -47,7 +47,7 @@ When you touch electrode E0, TRACK000.mp3 will play. When you touch electrode E1
 ## Install
 
 1. Close the Arduino IDE if you have it open.
-1. Download the [.zip](https://github.com/BareConductive/touch-mp3/archive/public.zip) or clone the repository to your local machine - if downloading the .zip, extract the contents somewhere that suits you.
+1. Download the [.zip](https://github.com/BareConductive/touch_mp3_with_leds/archive/public.zip) or clone the repository to your local machine - if downloading the .zip, extract the contents somewhere that suits you.
 1. Take the **touch_mp3_with_leds** folder and move it to **Arduino Sketchbook Folder**. This will be different for each operating system: 
 
 	**Windows**
